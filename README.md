@@ -1,5 +1,8 @@
-# `toml_env_conf`
-TOML based application configuration with support for environment-specific overrides.
+# toml-env-conf
+
+`pip install toml-env-conf`
+
+A minimal library for environment-specific (dev/prod) application configuration using TOML
 
 Useful if you want different values in some environments (local/test/prod). e.g. all environments use 
 the values base_conf.toml, but you only want some values to be different when
