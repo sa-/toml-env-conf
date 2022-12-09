@@ -1,8 +1,11 @@
 [tool.poetry]
 name = "toml_env_conf"
-version = "0.1.0"
-description = ""
-authors = ["sa- <github.com/sa->"]
+version = "0.1.2"
+description = "Environment specific application configuration with TOML"
+authors = ["sa-"]
+repository = "https://github.com/sa-/toml_env_conf"
+documentation = "https://github.com/sa-/toml_env_conf/blob/main/README.md"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
