@@ -1,0 +1,4 @@
+name = "Regular name"
+hobby_name = "laundry"
+is_fun = false
+scores = [-10, -20]
